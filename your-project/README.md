@@ -30,7 +30,7 @@ Both datasets were aligned by dates, allowing an easy link between them.
 
 ## Workflow
 Our workflow was mapped out using Trello in order to keep track of our tasks and goals. We communicated via Slack and Zoom to discuss and share data. 
-We also collated our data into one uniform JupyterNotebook, which we have subsequently shown in the form of a paper. 
+We also collated our data into one uniform [JupyterNotebook](https://github.com/beto-Sibileau/Project-Week-3-Data-Thieves/blob/master/your-project/paper/COVID-19%20-%20Paper%20-%20Markdown.ipynb), which we have subsequently shown in the form of a paper. 
 
 <!--- We organised the work using Trello and with GitHub. file share our latest figures while -->
 ## Organization
@@ -40,7 +40,7 @@ We organized our remote work in a collaborated GitHub repository. Files such as 
 ## Links
 Links to GitHub repositories, slides and kanban board are included below:
 
-[Beto Repository](https://github.com/beto-Sibileau)  
+[Beto Repository](https://github.com/beto-Sibileau/Project-Week-3-Data-Thieves/tree/master/your-project)  
 [Gareth Repository](https://github.com/peiriant/Project-Week-3-Data-Thieves)  
 [Slides](https://docs.google.com/presentation/d/1BTXM-IvcF2lO5uZjeCRaDrxv3b4xxCChFT3GSv59iKY/edit?ts=5ea04677#slide=id.g731ddd128b_1_6) 
 [Trello](https://trello.com/b/nBPS9Jsa/project-3-data)  
